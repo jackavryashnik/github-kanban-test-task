@@ -1,4 +1,3 @@
-import './App.css';
 import React from 'react';
 import { ApiRequest } from './components/ApiRequest/ApiRequest';
 
